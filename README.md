@@ -1,7 +1,9 @@
+
+<div align="center">
 ## 👋 About Me
 
-| | |
-| --- | --- |
+
+
 | **Name** | : Janvi Sardhara |
 | **Degree** | : BCA @ PES University, Bangalore |
 | **Background** | : Computer Science & IT |
@@ -11,5 +13,5 @@
 | **Interests** | : Open Source · UI/UX Design · Problem Solving |
 | **Status** | : Open to Internships & Learning Opportunities |
 
-
+</div>
 

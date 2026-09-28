@@ -3,7 +3,7 @@
 ## 👋 About Me
 
 **Name** : Janvi Sardhara  
-**Degree** : BCA @ PES University, Bangalore  
+**Degree** : MCA @ PES University, Bangalore  
 **Background** : Computer Science & IT  
 **Focus** : Full Stack Web Development  
 **Learning** : HTML5 · CSS3 · JavaScript · Python · SQL  
